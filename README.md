@@ -1,4 +1,6 @@
 # AI-Chatbot
 
 An AI chatbot using generative api.
-link- https://deep-ai-chatbot.streamlit.app/
+Click on the link to use the chatbot-
+https://deep-ai-chatbot.streamlit.app/
+
